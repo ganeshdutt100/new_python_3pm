@@ -4,18 +4,18 @@
 # x  = "Python"
 # print(x)
 #  int  , float, str , bool
+'''
+a = 6
+print( type(a), a)
+b  = 6.9
+print( type(b), b)
+x = "Python"
+print( type(x), x)
+y = False
+print( type(y), y)
 
-# a = 6
-# print( type(a), a)
-# b  = 6.9
-# print( type(b), b)
-# x = "Python"
-# print( type(x), x)
-# y = False
-# print( type(y), y)
-
-# value = input("Enter your value : ")
-# print(value)
+value = input("Enter your value : ")
+print(value)
 
 
 num = str(25)
@@ -32,6 +32,6 @@ print(type(a), a)
 
 
 
-
+'''
 
 # comment = ctrl  + /
