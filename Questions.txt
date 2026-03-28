@@ -1,0 +1,22 @@
+1.	Create variables
+Create three variables: name, age, and is_student. Assign appropriate values and print them.
+2.	Check data types
+Create variables of type int, float, string, and bool. Print their data types using type().
+3.	Addition of two numbers
+Take two numbers and store them in variables. Print their sum.
+4.	Swap two variables
+Swap the values of two variables without using a third variable.
+5.	Arithmetic operators
+Take two numbers and perform all arithmetic operations: +, -, *, /, %, //, **.
+6.	Simple interest calculation
+Create variables for principal, rate, and time. Calculate simple interest using formula:
+SI = (P * R * T) / 100
+7.	Type conversion
+Take a number as a string (e.g., "10"), convert it into integer, and add 5 to it.
+8.	Comparison operators
+Take two numbers and print the result of: ==, !=, >, <, >=, <=.
+9.	Logical operators
+Create two boolean variables and apply and, or, not operators. Print the results.
+10.	Find square and cube
+Take a number and print its square and cube using operators.
+
