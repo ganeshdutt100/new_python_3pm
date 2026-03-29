@@ -15,12 +15,22 @@
 #     print("Fail")
         
 
-marks  = 12
-if marks>=60:
-    print("grade A")
-elif marks >= 50:
-    print("grade B")
-elif marks >= 40:
-    print("grade C")
+# marks  = 12
+# if marks>=60:
+#     print("grade A")
+# elif marks >= 50:
+#     print("grade B")
+# elif marks >= 40:
+#     print("grade C")
+# else:
+#     print("Fail")
+
+num  = -5
+
+if num >= 0:
+    if num == 0:
+        print("Zero")
+    else:
+        print("Positive")
 else:
-    print("Fail")
+    print("Negative")

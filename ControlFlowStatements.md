@@ -21,7 +21,7 @@ conditions.
    print("Even number")
    else:
    print("Odd number")
-   Ganesh Dutt
+
    Input: 7
    Output:
    Odd number
@@ -39,6 +39,7 @@ elif marks >= 60:
 print("Grade: C")
 else:
 print("Grade: F")
+
 Input: 85
 Output:
 Grade: B
