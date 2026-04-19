@@ -76,12 +76,25 @@
 # print(text.find("python"))
 # print(text.count("o"))
 
-text  =  "234sdfgh"
-print(text.isdigit())
-print(text.isalpha())
+# text  =  "234sdfgh"
+# print(text.isdigit())
+# print(text.isalpha())
 
-print("12345".isdigit())
-print("hgfdsdfghj".isalpha())
-print("hello".islower())
-print("PYTHONLOVEJAVA".isupper())
-print("Hello".istitle())
+# print("12345".isdigit())
+# print("hgfdsdfghj".isalpha())
+# print("hello".islower())
+# print("PYTHONLOVEJAVA".isupper())
+# print("Hello".istitle())
+
+# text  = "hello \nworld "
+# text  = "hello \tworld "
+# text  = "hello \\ world "
+# print(text)
+
+# text  =  "Hello"
+# text[0] = "g"
+# print(text)
+
+num  = 1234
+newString  = str(num)
+print(type(newString))
