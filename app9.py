@@ -1,5 +1,8 @@
-listValue  = ["Jyoti","Aman","Abhishek"]
-print(len(listValue))
+# listValue  = [12,345,678,90,9876]
+# listValue  = ["Jyoti","Aman","Abhishek"]
+# listValue.sort()
+# print(listValue)
+# print(len(listValue))
 # print(listValue)
 # print(listValue[0])
 
@@ -16,3 +19,9 @@ print(len(listValue))
 # print(a.sort())
 # print(a)
 
+# Tuple 
+# a = (12,34,67,90)
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[3])
