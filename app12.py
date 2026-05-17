@@ -14,3 +14,14 @@
 # print("file write successfully") 
 # file.close() 
 # 
+
+# with open("hello.txt","w") as file:
+#    file.write("\n this is the file handling with (with)")
+    # print(data)
+# with open("hello.txt","a") as file:
+#    file.write("\n Update :  hello")
+    # print(data)
+
+# with open("hello.txt","r") as file:
+#     data = file.read()
+#     print(data)
